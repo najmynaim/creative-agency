@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --primary-color: #f60f20;
+    --primary-color: #2593CF;
     --secondary-color: #acb0ee;
     --error-color: #000000;
     --success-color: #28a745;
@@ -86,7 +86,7 @@ section.home {
     z-index: 20;
 }
   .logo span:nth-child(10n + 1) {
-    color: #ef5350;
+    color: #288CCB;
   }
   
   .logo span:nth-child(10n + 2) {
